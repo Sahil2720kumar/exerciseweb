@@ -1,5 +1,5 @@
 const { Box, Stack, Typography, Button,TextField} =MaterialUI;
-const Logo="../src/assets/icons/gym.png"
+const Logo="src/assets/icons/gym.png"
 const {useSelector,useDispatch} = ReactRedux;
 import store from "./../store.js"
 import {bodyPartFun} from "./../actions/index.js"

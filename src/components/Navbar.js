@@ -1,6 +1,6 @@
 const {Stack}=MaterialUI;
 const {Link}=ReactRouterDOM;
-const Logo="../src/assets/images/Logo.png"
+const Logo="src/assets/images/Logo.png"
 
 let template=`
 	<Nav>

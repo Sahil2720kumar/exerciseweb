@@ -1,7 +1,7 @@
 
 
 const { Box, Stack, Typography, Button} =MaterialUI;
-const HeroBannerImage = '../src/assets/images/banner.png';
+const HeroBannerImage = 'src/assets/images/banner.png';
 
 let template=`
 	<Wrapper>

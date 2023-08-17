@@ -1,4 +1,4 @@
-const Logo="../src/assets/images/Logo.png"
+const Logo="src/assets/images/Logo.png"
 const { Button, Stack, Typography } = MaterialUI;
 const {Link}=ReactRouterDOM;
 

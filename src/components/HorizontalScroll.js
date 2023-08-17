@@ -1,8 +1,8 @@
 import BodyPart from "./BodyPart.js"
 import {exerciseOptions,fetchData} from "../utils/fetchData.js"
 const { Box, Stack, Typography, Button,TextField} =MaterialUI;
-const RightArrowIcon = '../src/assets/icons/right-arrow.png';
-const LeftArrowIcon = '../src/assets/icons/left-arrow.png';
+const RightArrowIcon = 'src/assets/icons/right-arrow.png';
+const LeftArrowIcon = 'src/assets/icons/left-arrow.png';
 const {useEffect,useState}=React;
 import Exercise from "./Exercise.js"
 

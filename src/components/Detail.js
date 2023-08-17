@@ -2,9 +2,9 @@ const {Box}=MaterialUI;
 const {useParams}=ReactRouterDOM;
 const { Typography, Stack, Button } =MaterialUI;
 
-const BodyPartImage = '../src/assets/icons/body-part.png';
-const TargetImage = '../src/assets/icons/target.png';
-const EquipmentImage = '../src/assets/icons/equipment.png';
+const BodyPartImage = 'src/assets/icons/body-part.png';
+const TargetImage = 'src/assets/icons/target.png';
+const EquipmentImage = 'src/assets/icons/equipment.png';
 
 
 
